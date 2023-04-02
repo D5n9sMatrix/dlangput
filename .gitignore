@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dlangput
+dlangput.so
+dlangput.dylib
+dlangput.dll
+dlangput.a
+dlangput.lib
+dlangput-test-*
+*.exe
+*.o
+*.obj
+*.lst

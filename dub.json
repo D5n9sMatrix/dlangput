@@ -3,6 +3,9 @@
 		"D5n9sMatrix"
 	],
 	"copyright": "Copyright ® 2023, D5n9sMatrix",
+	"dependencies": {
+		"lincount": "~>0.1.0"
+	},
 	"description": "collect database to put data",
 	"license": "MIT",
 	"name": "dlangput"
