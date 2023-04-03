@@ -4,7 +4,10 @@
 	],
 	"copyright": "Copyright ® 2023, D5n9sMatrix",
 	"dependencies": {
-		"lincount": "~>0.1.0"
+		"dlogg": "~>0.4.1",
+		"easysettings": "~>0.3.3",
+		"lincount": "~>0.1.0",
+		"ssll": "~>0.5.0"
 	},
 	"description": "collect database to put data",
 	"license": "MIT",

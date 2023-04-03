@@ -1,0 +1,17 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"colorize": "1.0.5",
+		"dlogg": "0.4.1",
+		"dyaml": "0.9.2",
+		"easysettings": "0.3.3",
+		"isfreedesktop": "0.1.1",
+		"lincount": "0.1.0",
+		"mir-algorithm": "0.4.14",
+		"siryul": "0.8.7",
+		"ssll": "0.5.0",
+		"standardpaths": "0.8.2",
+		"tinyendian": "0.2.0",
+		"xdgpaths": "0.2.5"
+	}
+}
